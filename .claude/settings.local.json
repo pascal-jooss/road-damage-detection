@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 *)",
+      "Bash(venv/bin/python *)",
+      "Bash(grep -v \"^ultralytics\\\\|Ultralytics\\\\|YOLO\\\\|Fusing\\\\|WARNING.*nc\\\\|^$\")",
+      "Bash(venv/bin/pip freeze *)"
+    ]
+  }
+}

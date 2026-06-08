@@ -1,0 +1,10 @@
+path: data/processed
+train: train/images
+val: val/images
+test: test/images
+
+nc: 3
+names:
+  0: Pothole
+  1: Crack
+  2: Manhole
