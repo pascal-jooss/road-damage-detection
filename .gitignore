@@ -7,3 +7,4 @@ mlruns/
 __pycache__/
 *.pyc
 *.pt
+processed.zip
